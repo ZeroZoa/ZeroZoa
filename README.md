@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola!%20Seungjun's%20GitHub%20)
 
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black"/>
+
+
 <!--
 **ZeroZoa/ZeroZoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
