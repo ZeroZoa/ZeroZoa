@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola!%20Seungjun's%20GitHub%20%F0%9F%A4%97)
 
 <!--
 **ZeroZoa/ZeroZoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
