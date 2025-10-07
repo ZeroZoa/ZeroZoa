@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola!%20Seungjun's%20GitHub%20)
 
-<h2 tabindex="-1" class="heading-element" dir="auto" style="text-align: center;">Skills & Tools</h2>
+<h2 class="heading-element" dir="auto" style="text-align: center;">Skills & Tools</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-707070?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
