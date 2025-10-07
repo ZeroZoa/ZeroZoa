@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=Dart&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/flutter-000000?style=flat-square&logo=flutter&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/postgresql-000000?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/redis-000000?style=flat-square&logo=redis&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
 </div>&nbsp&nbsp
 
