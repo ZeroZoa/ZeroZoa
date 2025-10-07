@@ -13,10 +13,10 @@
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/macos-0303FF?style=flat-square&logo=macos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/intellijidea-0303FF?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-0303FF?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/notion-0303FF?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
 
