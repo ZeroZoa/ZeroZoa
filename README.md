@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/flutter-707070?style=flat-square&logo=flutter&logoColor=white" height="35"/>&nbsp;
   <img src="https://img.shields.io/badge/postgresql-707070?style=flat-square&logo=postgresql&logoColor=white" height="35"/>&nbsp;
   <img src="https://img.shields.io/badge/Docker-707070?style=flat-square&logo=Docker&logoColor=white" height="35"/>&nbsp;
-</div>
+</div>&nbsp
 
 <div align="center">
   <img src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=white" height="35"/>&nbsp;
