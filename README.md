@@ -14,8 +14,9 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/macos-01BC6CFF?style=flat-square&logo=macos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/intellijidea-01BC6CFF?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-01BC6CFF?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellijidea-000000FF?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-000000FF?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/notion-000000FF?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
 
