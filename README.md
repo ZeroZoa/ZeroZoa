@@ -5,8 +5,8 @@
 <img src="https://img.shields.io/badge/Java-01BC6CFF?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-01BC6CFF?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-01BC6CFF?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-JPA-01BC6CFF?style=flat-square&logo=Spring-JPA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-Security-01BC6CFF?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring JPA-01BC6CFF?style=flat-square&logo=Spring-JPA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security-01BC6CFF?style=flat-square&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-01BC6CFF?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgresql-01BC6CFF?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-01BC6CFF?style=flat-square&logo=Docker&logoColor=white"/>
