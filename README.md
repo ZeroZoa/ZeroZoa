@@ -8,10 +8,16 @@
   <img src="https://img.shields.io/badge/Spring-01BC6CFF?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring JPA-01BC6CFF?style=flat-square&logo=Spring-JPA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-01BC6CFF?style=flat-square&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-01BC6CFF?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-01BC6CFF?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-01BC6CFF?style=flat-square&logo=Docker&logoColor=white"/>
 </div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/macos-01BC6CFF?style=flat-square&logo=macos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellijidea-01BC6CFF?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-01BC6CFF?style=flat-square&logo=github&logoColor=white"/>
+</div>
+
 
 
 
