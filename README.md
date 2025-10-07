@@ -2,7 +2,7 @@
 
 <h2 tabindex="-1" class="heading-element" dir="auto">Skills & Tools</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Java-707070?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-707070?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring JPA-707070?style=flat-square&logo=Spring-JPA&logoColor=white"/>
@@ -10,14 +10,14 @@
   
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Dart-707070?style=flat-square&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/flutter-707070?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-707070?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-707070?style=flat-square&logo=Docker&logoColor=white"/>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=white"/>
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/>
