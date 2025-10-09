@@ -28,8 +28,10 @@
   <img src="https://img.shields.io/badge/notion-707070?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
 </div>
 
-
-
+<div align="center">
+<h2 tabindex="-1" class="heading-element" dir="auto">Contact</h2>
+roh100438@gmail.com
+</div>
 
 
 <!--
