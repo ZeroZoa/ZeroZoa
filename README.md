@@ -30,7 +30,7 @@
 
 <div align="center">
 <h2 tabindex="-1" class="heading-element" dir="auto">Contact</h2>
-roh100438@gmail.com
+<img src="https://img.shields.io/badge/roh100438@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white"/>&nbsp;
 </div>
 
 
