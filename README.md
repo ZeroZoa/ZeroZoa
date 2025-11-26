@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola!%20Seungjun's%20GitHub)
-
+//![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola!%20Seungjun's%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola!&desc=Seungjun's%20GitHub)
 <div align="center">
 
 <h2 tabindex="-1" class="heading-element" dir="auto">Skills & Tools</h2>
