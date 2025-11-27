@@ -3,7 +3,7 @@
 
 <div align="center">
   <h2 tabindex="-1" class="heading-element" dir="auto">저의 포트폴리오입니다!</h2>
-  <a href="https://github.com/user-attachments/files/23784625/default.pdf">포트폴리오</a>
+  <a href="https://github.com/user-attachments/files/23784625/노승준의_Portfolio.pdf">포트폴리오</a>
 </div>
 
 <h2 tabindex="-1" class="heading-element" dir="auto">Skills & Tools</h2>
