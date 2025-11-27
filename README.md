@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola!%20Seungjun's%20GitHub&fontSize=50)
 <div align="center">
 
+<div align="center">
+  <h2 tabindex="-1" class="heading-element" dir="auto">저의 포트폴리오입니다!</h2>
+  <a href="https://github.com/user-attachments/files/23784625/default.pdf">포트폴리오</a>
+</div>
+
 <h2 tabindex="-1" class="heading-element" dir="auto">Skills & Tools</h2>
 
 </div>
@@ -32,10 +37,7 @@
 <img src="https://img.shields.io/badge/roh100438@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white"/>&nbsp;
 </div>
 
-<div align="center">
-  <h2 tabindex="-1" class="heading-element" dir="auto">Contact</h2>
-  <a href="https://github.com/user-attachments/files/23784625/default.pdf">포트폴리오</a>
-</div>
+
 
 
 <!--
