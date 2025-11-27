@@ -33,8 +33,8 @@
 </div>
 
 <div align="center">
-<h2 tabindex="-1" class="heading-element" dir="auto">Contact</h2>
-[포트폴리오.pdf](https://github.com/user-attachments/files/23784625/default.pdf)
+  <h2 tabindex="-1" class="heading-element" dir="auto">Contact</h2>
+  <a href="https://github.com/user-attachments/files/23784625/default.pdf">포트폴리오</a>
 </div>
 
 
