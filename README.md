@@ -32,6 +32,11 @@
 <img src="https://img.shields.io/badge/roh100438@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white"/>&nbsp;
 </div>
 
+<div align="center">
+<h2 tabindex="-1" class="heading-element" dir="auto">Contact</h2>
+[포트폴리오.pdf](https://github.com/user-attachments/files/23784625/default.pdf)
+</div>
+
 
 <!--
 **ZeroZoa/ZeroZoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
