@@ -36,7 +36,10 @@
 <h2 tabindex="-1" class="heading-element" dir="auto">Contact</h2>
 <img src="https://img.shields.io/badge/roh100438@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white"/>&nbsp;
 </div>
-
+  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroZoa&langs_count=6&layout=donut&theme=radical" alt="Top Langs" height="195px" />
+</div>
 
 
 
