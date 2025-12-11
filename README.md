@@ -26,10 +26,10 @@
 </div>&nbsp&nbsp
 
 <div align="center">
-  <img src="https://img.shields.io/badge/macos-707070?style=flat-square&logo=macos&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/intellijidea-707070?style=flat-square&logo=intellijidea&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/github-707070?style=flat-square&logo=github&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/notion-707070?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/macos-707070?style=flat-square&logo=macos&logoColor=white"/>&nbsp;
 </div>
 
 <div align="center">
