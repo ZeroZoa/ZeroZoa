@@ -15,23 +15,16 @@
   <img src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/spring_JPA-000000?style=for-the-badge&logo=&logoColor=white" alt="Spring JPA"/>
   <img src="https://img.shields.io/badge/spring_security-000000?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Flutter"/>
+
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/gradle-000000?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-</div>
-
-<div align="center">
-  //<img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
-  //<img src="https://img.shields.io/badge/Spring JPA-000000?style=flat-square&logo=Spring-JPA&logoColor=white"/>&nbsp;
-  //<img src="https://img.shields.io/badge/Spring Security-000000?style=flat-square&logo=springsecurity&logoColor=white"/>&nbsp;
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=Dart&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/flutter-000000?style=flat-square&logo=flutter&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/postgresql-000000?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/redis-000000?style=flat-square&logo=redis&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
 </div>&nbsp&nbsp
 
 <div align="center">
