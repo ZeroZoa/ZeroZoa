@@ -33,6 +33,6 @@
 </div>
 
 <div align="center">
-<h2 tabindex="-1" class="heading-element" dir="auto">Contact</h2>
-<img src="https://img.shields.io/badge/roh100438@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white"/>&nbsp;
+  <h2 tabindex="-1" class="heading-element" dir="auto">Contact</h2>
+  <img src="https://img.shields.io/badge/roh100438@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </div>
