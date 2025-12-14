@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/spring_JPA-000000?style=for-the-badge&logo=&logoColor=white" alt="Spring JPA"/>
   <img src="https://img.shields.io/badge/spring_security-000000?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/dart-000000?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 
 </div>
@@ -28,6 +27,11 @@
 </div>&nbsp&nbsp
 
 <div align="center">
+  <img src="https://img.shields.io/badge/intellijidea-707070?style=for-the-badge&logo=intellijidea&logoColor=white" alt="intellijidea"/>
+  <img src="https://img.shields.io/badge/github-707070?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  <img src="https://img.shields.io/badge/notion-707070?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/macos-707070?style=for-the-badge&logo=macos&logoColor=white" alt="Macos"/>
+  
   <img src="https://img.shields.io/badge/intellijidea-707070?style=flat-square&logo=intellijidea&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/github-707070?style=flat-square&logo=github&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/notion-707070?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
