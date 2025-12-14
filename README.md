@@ -11,9 +11,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring JPA"/>
+  <img src="https://img.shields.io/badge/spring_JPA-6DB33F?style=for-the-badge&logo=&logoColor=white" alt="Spring JPA"/>
   <img src="https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
