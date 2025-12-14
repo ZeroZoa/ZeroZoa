@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/spring_JPA-000000?style=for-the-badge&logo=&logoColor=white" alt="Spring JPA"/>
   <img src="https://img.shields.io/badge/spring_security-000000?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/dart-000000?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 
 </div>
 
