@@ -5,11 +5,8 @@
   <a href="https://github.com/user-attachments/files/23786606/default.pdf">Seungjun's Portfolio</a>
 </div>
 
-<h2 tabindex="-1" class="heading-element" dir="auto">Skills & Tools</h2>
-
-</div>
-
 <div align="center">
+  <h2 tabindex="-1" class="heading-element" dir="auto">Skills & Tools</h2>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/spring_JPA-000000?style=for-the-badge&logo=&logoColor=white" alt="Spring JPA"/>
