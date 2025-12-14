@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola!%20Seungjun's%20GitHub&fontSize=50" alt="header" width="100%" />
 </div>
+
 <div align="center">
   <h2 tabindex="-1" class="heading-element" dir="auto">저의 포트폴리오입니다!</h2>
   <a href="https://github.com/user-attachments/files/23786606/default.pdf">Seungjun's Portfolio</a>
