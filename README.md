@@ -11,9 +11,9 @@
 </div>
 
 ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![springboot](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=springboot&logoColor=white)
-![spring_JPA](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring_JPA&logoColor=white)
-![spring_security](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring_JPA&logoColor=white)
+![spring](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white)
+![spring_JPA](https://img.shields.io/badge/springjpa-000000?style=for-the-badge&logo=springjpa&logoColor=white)
+![spring_security](https://img.shields.io/badge/springsecurity-000000?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=Redis&logoColor=white)
 ![gradle](https://img.shields.io/badge/gradle-000000?style=for-the-badge&logo=gradle&logoColor=white)
