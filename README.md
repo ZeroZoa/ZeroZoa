@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/gradle-000000?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
 </div>&nbsp&nbsp
 
