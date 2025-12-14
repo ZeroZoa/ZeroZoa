@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola!%20Seungjun's%20GitHub&fontSize=50)
-<div align="center">
 
 <div align="center">
   <h2 tabindex="-1" class="heading-element" dir="auto">저의 포트폴리오입니다!</h2>
@@ -31,11 +30,6 @@
   <img src="https://img.shields.io/badge/github-707070?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   <img src="https://img.shields.io/badge/notion-707070?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/macos-707070?style=for-the-badge&logo=macos&logoColor=white" alt="Macos"/>
-  
-  <img src="https://img.shields.io/badge/intellijidea-707070?style=flat-square&logo=intellijidea&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/github-707070?style=flat-square&logo=github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/notion-707070?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/macos-707070?style=flat-square&logo=macos&logoColor=white"/>&nbsp;
 </div>
 
 <div align="center">
