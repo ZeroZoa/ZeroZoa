@@ -12,8 +12,8 @@
 
 ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![springboot](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=springboot&logoColor=white)
-![spring_JPA](https://img.shields.io/badge/spring_JPA-000000?style=for-the-badge&logo=spring_JPA&logoColor=white)
-![spring_security](https://img.shields.io/badge/spring_security-000000?style=for-the-badge&logo=spring_JPA&logoColor=white)
+![spring_JPA](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring_JPA&logoColor=white)
+![spring_security](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring_JPA&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=Redis&logoColor=white)
 ![gradle](https://img.shields.io/badge/gradle-000000?style=for-the-badge&logo=gradle&logoColor=white)
