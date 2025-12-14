@@ -10,6 +10,7 @@
 
 </div>
 
+<div align="center">
 ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white)
 ![spring_JPA](https://img.shields.io/badge/springjpa-000000?style=for-the-badge&logo=springjpa&logoColor=white)
@@ -17,15 +18,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=Redis&logoColor=white)
 ![gradle](https://img.shields.io/badge/gradle-000000?style=for-the-badge&logo=gradle&logoColor=white)
-  
+</div>
+
 <div align="center">
-  ![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![springboot](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=springboot&logoColor=white)
-  ![spring_JPA](https://img.shields.io/badge/spring_JPA-000000?style=for-the-badge&logo=spring_JPA&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=Redis&logoColor=white)
-  ![gradle](https://img.shields.io/badge/gradle-000000?style=for-the-badge&logo=gradle&logoColor=white)
-  
   //<img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
   //<img src="https://img.shields.io/badge/Spring JPA-000000?style=flat-square&logo=Spring-JPA&logoColor=white"/>&nbsp;
   //<img src="https://img.shields.io/badge/Spring Security-000000?style=flat-square&logo=springsecurity&logoColor=white"/>&nbsp;
