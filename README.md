@@ -4,8 +4,7 @@
 
 <<div align="center">
   <h2 tabindex="-1" class="heading-element" dir="auto">저의 포트폴리오입니다!</h2>
-  <a href="https://github.com/user-attachments/files/23786606/default.pdf">Seungjun's Portfolio</a>
-  [노승준의 포트폴리오.pdf](https://github.com/user-attachments/files/29319053/default.pdf)
+  <a href="https://github.com/user-attachments/files/29319053/default.pdf">ᅩ승준의 포트폴리오</a>
 </div>
 
 <div align="center">
